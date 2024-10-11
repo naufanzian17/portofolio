@@ -10,7 +10,7 @@ Orang tua: John Hendri, Junita Eka Putri
 Saudara kandung: Jessi Putri
 Lahir: Jefry Nikhol; 15 Januari 1999 (umur 25); Jakarta, Indonesia`;
 
-export const ABOUT_TEXT = `Jefri mengawali karier sebagai model iklan dan terjun ke dunia akting dengan menjadi pemeran pendukung dalam miniseri Kami Rindu Ayah pada tahun 2013. Pada tahun 2017, Jefri berperan sebagai Elzan dalam film pertamanya yang berjudul Pertaruhan. Salah satu peran yang mengangkat nama Jefri adalah sebagai Nathan dalam Dear Nathan, yang dirilis pada tahun yang sama.`;
+export const KARIER_TEXT = `Jefri mengawali karier sebagai model iklan dan terjun ke dunia akting dengan menjadi pemeran pendukung dalam miniseri Kami Rindu Ayah pada tahun 2013. Pada tahun 2017, Jefri berperan sebagai Elzan dalam film pertamanya yang berjudul Pertaruhan. Salah satu peran yang mengangkat nama Jefri adalah sebagai Nathan dalam Dear Nathan, yang dirilis pada tahun yang sama.`;
 
 export const EXPERIENCES = [
   {
